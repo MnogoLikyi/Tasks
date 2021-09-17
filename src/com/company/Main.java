@@ -11,6 +11,7 @@ import java.util.List;
 public class Main {
 
     public static void main(String[] args) {
+        
         // write your code here
         int[] arr = new int[]{1, 2, 1, 2, 5, 6, 5, 8, 6,8,7,7,7,5,7,9,8,2,3,2};
         BumerangCalculator bmc = new BumerangCalculator();

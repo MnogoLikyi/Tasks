@@ -3,6 +3,7 @@ package com.company.Calculators;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
+
 /**
  * bumerang calculator
  * @author Samvel Ghazaryan
